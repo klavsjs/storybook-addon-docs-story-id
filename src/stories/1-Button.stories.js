@@ -4,6 +4,7 @@ import { Button } from '@storybook/react/demo';
 
 export default {
   title: 'Button',
+  id: 'someId',
   component: Button,
 };
 
